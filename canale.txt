@@ -1,0 +1,25 @@
+1. Netflix - Rating: 0/5
+2. HBO Max - Rating: 0/5
+3. Disney+ - Rating: 0/5
+4. Amazon Prime - Rating: 0/5
+5. Hulu - Rating: 0/5
+6. YouTube Premium - Rating: 0/5
+7. Apple TV+ - Rating: 0/5
+8. Crunchyroll - Rating: 0/5
+9. Twitch - Rating: 0/5
+10. Peacock - Rating: 0/5
+11. Paramount+ - Rating: 0/5
+12. Discovery+ - Rating: 0/5
+13. ESPN+ - Rating: 0/5
+14. DAZN - Rating: 0/5
+15. FuboTV - Rating: 0/5
+16. Spotify - Rating: 0/5
+17. Tidal - Rating: 0/5
+18. Apple Music - Rating: 0/5
+19. SoundCloud - Rating: 0/5
+20. Pandora - Rating: 0/5
+21. Vimeo - Rating: 0/5
+22. Dailymotion - Rating: 0/5
+23. Plex - Rating: 0/5
+24. Pluto TV - Rating: 0/5
+25. Roku Channel - Rating: 0/5

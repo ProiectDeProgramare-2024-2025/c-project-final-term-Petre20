@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746469254 source:c:\users\lupue\desktop\c\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
