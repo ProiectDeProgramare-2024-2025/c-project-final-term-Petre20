@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Definirea codurilor ANSI pentru culori
 #define RED     "\033[1;31m"
 #define GREEN   "\033[1;32m"
 #define YELLOW  "\033[1;33m"
@@ -10,7 +9,6 @@
 #define PURPLE  "\033[1;35m"
 #define RESET   "\033[0m"
 
-// Structuri de date
 struct Utilizator {
     char username[50];
     char parola[50];
@@ -24,10 +22,8 @@ struct Canal {
     int numar_abonati;
 };
 
-// Variabila globala pentru utilizatorul curent
 struct Utilizator utilizator_curent = {"", "", 0};
 
-// Functii utile
 void curatare_ecran() {
     system("cls");
 }
@@ -38,7 +34,6 @@ void pauza() {
     getchar();
 }
 
-// Functie pentru a crea fisierele daca nu exista
 void creare_fisiere() {
     FILE *f_utilizatori = fopen("utilizatori.txt", "a");
     if (f_utilizatori != NULL) {
